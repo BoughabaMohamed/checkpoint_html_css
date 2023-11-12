@@ -1,0 +1,83 @@
+body{
+  background-color: white;
+}
+
+
+nav{
+
+  height: 61px;
+  width: 59px;
+  margin: 10px auto;
+ 
+ }
+ 
+ 
+menu{
+  margin: auto;
+  display: inline;
+  width: 520px;
+  padding: 10px;
+  
+}
+
+
+
+
+h1{
+  color: red;
+  margin-left: 500px;
+}
+
+
+
+h2{
+
+  margin-left: 500px;
+}
+iframe{
+  width: 500px;
+  height: 600px;
+
+}
+
+mark{
+  margin-left: 500px;
+  color:black;
+ 
+}
+
+a{
+
+    
+    height: 610px;
+    width: 590px;
+    margin: 100px auto;
+   
+   
+}
+textarea{
+  width: 540px; 
+  color: white;
+  margin-bottom: 20px;
+}
+
+
+button{
+  text-align: center;
+  color: black;
+  width: 530px;
+  margin-left: 30px;
+  margin-top: 10px;
+  padding:10px;
+  transition: 1s;
+  cursor: pointer;
+  background-color: transparent;
+  box-shadow: 1px 1px 10px gray;
+  
+  
+  }
+
+  h3{
+   margin-left: 500px; 
+  }
+    
